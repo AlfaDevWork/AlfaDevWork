@@ -39,7 +39,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square&logoColor=white)]([https://instagram.com/](https://www.instagram.com/alfarezhimr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com/alfarezhimr/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfarezhi.dev@gmail.com)
 
 ---
