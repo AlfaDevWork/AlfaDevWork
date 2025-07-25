@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Alfa!
+# 👋 Hi, I'm Alfarezhi!
 
-🔧 **Junior Mobile Developer** | 📱 **Flutter Enthusiast** | 🛠️ Always Building, Always Learning
+🔧 **Junior Mobile Developer** | 📱 **Flutter Enthusiast** 
 
 ---
 
